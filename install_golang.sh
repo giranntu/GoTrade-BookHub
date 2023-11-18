@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#test
 # Removing any existing Go installation
 echo "Removing any existing Go installation..."
 sudo rm -rf /usr/local/go
